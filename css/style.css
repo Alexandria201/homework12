@@ -1,5 +1,6 @@
 body {
     background: url(../img/bg01.jpg);
+    font-family: 'Open Sans', sans-serif;
 }
 
 .wrapper {
@@ -17,12 +18,10 @@ body {
 
 .menu__item {
     padding: 3.5% 5% 3.5% 2.6%;
-   
 }
 
 .menu__item:hover {
     background-color: #3f3f3f;
-    
 }
 
 .item__link {
@@ -33,3 +32,29 @@ body {
 .item__link:hover {
     color: white;
 }
+
+.header__conteiner {
+    padding-top: 7%;
+}
+
+.header__logo {
+    margin: 0 auto;
+    background:url(../img/listok.jpg) no-repeat center center;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #df6267;
+}
+
+.logo__name {
+    width: 30%;
+    margin: 0 auto;
+    padding-top: 4%;
+    font-size: 45px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+   
+    
+}
+
