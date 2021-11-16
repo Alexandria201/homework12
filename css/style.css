@@ -34,7 +34,11 @@ body {
 }
 
 .header__conteiner {
+    width: 79%;
     padding-top: 7%;
+    margin: 0 auto;
+    text-align: center;
+    
 }
 
 .header__logo {
@@ -49,12 +53,41 @@ body {
 .logo__name {
     width: 30%;
     margin: 0 auto;
-    padding-top: 4%;
+    padding-top: 4% ;
+    padding-bottom: 7%;
     font-size: 45px;
     font-family: 'Open Sans', sans-serif;
     text-align: center;
     text-transform: uppercase;
-   
-    
+}
+
+.name__description {
+    width: 42%;
+    margin: 0 auto;
+    padding: 7% 0 2% 0;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.main__section {
+    width: 77%;
+    margin: 0 auto;
+}
+
+.header__section {
+    display: flex;
+    justify-content: space-between;
+    padding: 1% 0 6% 0;
+}
+
+.photo__gallery {
+    width: 76%;
+    text-decoration: none;
+}
+
+.photo__img {
+    width: 465px;
+    height: 330px;
+    padding: 0 2% 4% 0%;
 }
 
