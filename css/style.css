@@ -20,8 +20,16 @@ body {
    
 }
 
+.menu__item:hover {
+    background-color: #3f3f3f;
+    
+}
+
 .item__link {
     text-decoration: none;
     color: black;
     font-size: 20px;
+}
+.item__link:hover {
+    color: white;
 }
