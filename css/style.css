@@ -1,0 +1,27 @@
+body {
+    background: url(../img/bg01.jpg);
+}
+
+.wrapper {
+    width: 1907px;
+}
+
+.nav__menu {
+    width: 38%;
+    margin: 0 auto;
+}
+
+.menu {
+    display: flex;
+}
+
+.menu__item {
+    padding: 3.5% 5% 3.5% 2.6%;
+   
+}
+
+.item__link {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
