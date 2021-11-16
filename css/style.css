@@ -37,6 +37,7 @@ body {
     width: 79%;
     padding-top: 7%;
     margin: 0 auto;
+    margin-bottom: 3.3%;
     text-align: center;
     
 }
@@ -55,8 +56,9 @@ body {
     margin: 0 auto;
     padding-top: 4% ;
     padding-bottom: 7%;
-    font-size: 45px;
-    font-family: 'Open Sans', sans-serif;
+    font-size: 38px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
     text-align: center;
     text-transform: uppercase;
 }
@@ -80,6 +82,13 @@ body {
     padding: 1% 0 6% 0;
 }
 
+.header__section-name {
+    width: 7.8%;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
 .photo__gallery {
     width: 76%;
     text-decoration: none;
@@ -98,8 +107,14 @@ body {
     text-align: center;
 }
 
+.text__item {
+    color: #8b7d6b;
+    padding-bottom: 1.2%;
+}
+
 .content__text {
     line-height: 2rem;
+    color: #8b8998;
 }
 
 .button__item {
