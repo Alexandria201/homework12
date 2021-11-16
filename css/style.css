@@ -99,7 +99,6 @@ body {
 }
 
 .content__text {
-    
     line-height: 2rem;
 }
 
@@ -126,4 +125,22 @@ body {
 
 .align {
     margin: 6% 0 7% 0;
+}
+
+.contact__information {
+    width: 41%;
+    margin: 0 auto;
+    
+}
+
+.menu__contacts {
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact__link {
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #6b8af1;
+    font-weight: 500;
 }
