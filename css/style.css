@@ -144,3 +144,11 @@ body {
     color: #6b8af1;
     font-weight: 500;
 }
+
+.footer {
+    width: 32%;
+    margin: 0 auto;
+    padding: 5% 0 4% 0;
+    text-align: center;
+    color: black;
+}
