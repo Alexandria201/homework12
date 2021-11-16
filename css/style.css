@@ -98,6 +98,11 @@ body {
     text-align: center;
 }
 
+.content__text {
+    
+    line-height: 2rem;
+}
+
 .button__item {
     width: 19%;
     margin: 0 auto;
@@ -106,4 +111,19 @@ body {
     background-color: #df6267;
     color: white;
     font-weight: bolder;
+}
+
+.content__name {
+    width: 20%;
+    margin: 0 auto;
+    padding:1% 0 3% 0 ;
+    font-size: 23px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    
+}
+
+.align {
+    margin: 6% 0 7% 0;
 }
